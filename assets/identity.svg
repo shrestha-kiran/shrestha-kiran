@@ -1,0 +1,6 @@
+<svg width="620" height="56" viewBox="0 0 620 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="const engineer = Kiran Shrestha;">
+  <text x="6" y="36" font-family="Fira Code, SFMono-Regular, Consolas, monospace" font-size="26" font-weight="600"><tspan fill="#6C63FF">const </tspan><tspan fill="#00D4FF">engineer</tspan><tspan fill="#8a8a99"> = </tspan><tspan fill="#3ddc97">"Kiran Shrestha"</tspan><tspan fill="#8a8a99">;</tspan></text>
+  <rect x="588" y="14" width="10" height="22" fill="#e6e6f0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

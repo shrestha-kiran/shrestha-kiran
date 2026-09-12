@@ -28,3 +28,5 @@
 <a href="https://linkedin.com/in/thekiranstha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/dkrestt"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,100:6C63FF&section=footer&animation=fadeIn" width="100%"/>

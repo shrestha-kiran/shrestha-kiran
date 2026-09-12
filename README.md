@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-<a href="https://quant-psi.vercel.app"><img src="https://img.shields.io/badge/quant--agent-live_demo-8A2BE2?style=for-the-badge"/></a>
 <a href="https://www.worldofaiagent.com"><img src="https://img.shields.io/badge/worldofaiagent-live_demo-FF3366?style=for-the-badge"/></a>
-<a href="https://irish-trip-front.vercel.app"><img src="https://img.shields.io/badge/Emerald_Explorer-live_demo-2EC4B6?style=for-the-badge"/></a>
+<a href="https://www.bookiebo.com/admin/dashboard"><img src="https://img.shields.io/badge/QuantAgent-live_demo-8A2BE2?style=for-the-badge"/></a>
+<a href="https://www.myirelandvacation.com/"><img src="https://img.shields.io/badge/MyIrelandVacation-live_demo-2EC4B6?style=for-the-badge"/></a>
 <a href="https://foundry-os-beta.vercel.app"><img src="https://img.shields.io/badge/Foundry_OS-live_demo-FF9F1C?style=for-the-badge"/></a>
 <a href="https://mindful-bite-seven.vercel.app"><img src="https://img.shields.io/badge/MindfulBite-live_demo-118AB2?style=for-the-badge"/></a>
 </p>

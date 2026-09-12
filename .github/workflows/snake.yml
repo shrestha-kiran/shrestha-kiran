@@ -25,6 +25,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: fix dist ownership (snk's container leaves it root-owned)
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: check live agent status and generate agent-status.svg
         run: bash scripts/generate-status.sh dist
 

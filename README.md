@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6C63FF,100:00D4FF&text=KIRAN%20SHRESTHA&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+AI+agents+for+the+future." alt="tagline"/>
+<img src="https://raw.githubusercontent.com/shrestha-kiran/shrestha-kiran/main/assets/terminal.svg" alt="terminal: kiran_shrestha — building AI agents for the future" width="640"/>
 </p>
 
 <p align="center">

@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/shrestha-kiran/shrestha-kiran/main/assets/ticker.svg" alt="live projects ticker" width="900"/>
+</p>
+
+<p align="center">
 <a href="https://www.worldofaiagent.com"><img src="https://img.shields.io/badge/worldofaiagent-live_demo-FF3366?style=for-the-badge"/></a>
 <a href="https://www.bookiebo.com/admin/dashboard"><img src="https://img.shields.io/badge/QuantAgent-live_demo-8A2BE2?style=for-the-badge"/></a>
 <a href="https://www.myirelandvacation.com/"><img src="https://img.shields.io/badge/MyIrelandVacation-live_demo-2EC4B6?style=for-the-badge"/></a>

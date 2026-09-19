@@ -1,0 +1,45 @@
+<svg width="680" height="310" viewBox="0 0 680 310" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="departures board: 4 of 5 projects on time">
+  <rect x="0" y="0" width="680" height="310" rx="6" fill="#0b0b0d" stroke="#2a2a2a" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="3" fill="#3a3a3a"/>
+  <circle cx="662" cy="18" r="3" fill="#3a3a3a"/>
+  <circle cx="18" cy="292" r="3" fill="#3a3a3a"/>
+  <circle cx="662" cy="292" r="3" fill="#3a3a3a"/>
+
+  <text x="28" y="42" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#8a8a80" letter-spacing="2">DEPARTURES</text>
+  <line x1="12" y1="16" x2="12" y2="16"/>
+  <line x1="12" y1="68" x2="668" y2="68" stroke="#2a2a2a" stroke-width="1"/>
+
+  <text x="28" y="62" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#5a5a52" letter-spacing="1">FLIGHT</text>
+  <text x="110" y="62" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#5a5a52" letter-spacing="1">PROJECT</text>
+  <text x="440" y="62" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#5a5a52" letter-spacing="1"></text>
+  <text x="540" y="62" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#5a5a52" letter-spacing="1">STATUS</text>
+
+  
+  <text x="28" y="117" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">WOAI</text>
+  <text x="110" y="117" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#e8e8e0" letter-spacing="0.5">WORLDOFAIAGENT.COM</text>
+  <text x="440" y="117" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#8a8a80">GATE A1</text>
+  <text x="540" y="117" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">ON TIME</text>
+  <rect x="12" y="128" width="656" height="34" fill="#141414"/>
+  <text x="28" y="151" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">QANT</text>
+  <text x="110" y="151" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#e8e8e0" letter-spacing="0.5">QUANTAGENT</text>
+  <text x="440" y="151" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#8a8a80">GATE A2</text>
+  <text x="540" y="151" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">ON TIME</text>
+  
+  <text x="28" y="185" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">IRLD</text>
+  <text x="110" y="185" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#e8e8e0" letter-spacing="0.5">MYIRELANDVACATION.COM</text>
+  <text x="440" y="185" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#8a8a80">GATE A3</text>
+  <text x="540" y="185" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">DELAYED</text>
+  <rect x="12" y="196" width="656" height="34" fill="#141414"/>
+  <text x="28" y="219" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">FNDY</text>
+  <text x="110" y="219" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#e8e8e0" letter-spacing="0.5">FOUNDRY OS</text>
+  <text x="440" y="219" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#8a8a80">GATE A4</text>
+  <text x="540" y="219" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">ON TIME</text>
+  
+  <text x="28" y="253" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">MBTE</text>
+  <text x="110" y="253" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#e8e8e0" letter-spacing="0.5">MINDFULBITE</text>
+  <text x="440" y="253" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#8a8a80">GATE A5</text>
+  <text x="540" y="253" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFB627" letter-spacing="1">ON TIME</text>
+
+  <line x1="12" y1="264" x2="668" y2="264" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="28" y="290" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5a5a52">4/5 ON TIME &#183; LAST CHECKED 2026-09-19 20:54 UTC</text>
+</svg>
